@@ -1,4 +1,4 @@
-# coder
+# AIRLINE RESERVATION SYSTEM
 Abstract:
 The objective of the project is to design an Airline Reservation System which enables the admin/user to modify and to booked flights. 
 It will provide online services which, check whether flight is ready and help in proper keeping of records. User can reserve flight, manage flight, and customize booking. 
